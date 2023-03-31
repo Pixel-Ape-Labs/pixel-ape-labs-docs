@@ -30,8 +30,13 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.markdown > h2 {
+.markdown > h1:first-child + h2 {
+  margin-top: -1rem;
   font-weight: normal;
-  margin-top: 0.5rem;
   color: #999999;
+}
+
+.markdown p > img {
+  max-width: 450px;
+  height: auto;
 }
