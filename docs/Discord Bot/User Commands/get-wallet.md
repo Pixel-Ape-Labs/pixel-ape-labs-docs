@@ -19,3 +19,7 @@ Command Type: **User Command**
 1. Right-click on a member.
 2. Select **Apps**
 3. Select **Get Wallet**
+
+## Screenshot
+
+![Get Wallet Response](../../assets/get-wallet-response.png)

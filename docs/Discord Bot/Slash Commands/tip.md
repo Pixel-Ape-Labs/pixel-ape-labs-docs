@@ -22,6 +22,12 @@ Command Type: **Slash Command**
 
 ## Usage Example
 
+### Slash Command
+
 ```
-/tip @PixelApeLabs 1 SOL
+/tip @Member 1 SOL
 ```
+
+### Bot Response
+
+![Tip Response](../../assets/tip-response.png)

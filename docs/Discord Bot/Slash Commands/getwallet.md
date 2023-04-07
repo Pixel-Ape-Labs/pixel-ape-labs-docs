@@ -20,6 +20,12 @@ Command Type: **Slash Command**
 
 ## Usage Example
 
+### Slash Command
+
 ```
-/getwallet @PixelApeLabs
+/getwallet @ParticleNerd
 ```
+
+### Bot Response
+
+![/getwallet Response](../../assets/get-wallet-response.png)

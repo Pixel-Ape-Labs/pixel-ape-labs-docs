@@ -16,6 +16,12 @@ Command Type: **Slash Command**
 
 ## Usage Example
 
+### Slash Command
+
 ```
 /wallets
 ```
+
+### Bot Response
+
+![/wallets Response](../../assets/wallets-response.png)

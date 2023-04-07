@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+sidebar_label: Discord Bot
 ---
 
-# PAL Bot
+# Discord Bot
 
 ## PAL is our friendly Discord bot
 

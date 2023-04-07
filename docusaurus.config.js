@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Pixel Ape Labs",
-  tagline: "Dinosaurs are cool",
+  tagline: "Tools for collections and collectors",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -79,33 +79,53 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Resources",
-            items: [
-              {
-                label: "Docs",
-                to: "/",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Twitter",
-                href: "https://twitter.com/pixelapelabs",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Pixel Ape Labs.`,
-      },
+      // footer: {
+      //   style: "dark",
+      //   links: [
+      //     {
+      //       title: "Resources",
+      //       items: [
+      //         {
+      //           label: "Website",
+      //           href: "https://pixelapelabs.com",
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: "Pixel Apes",
+      //       items: [
+      //         {
+      //           label: "Discord",
+      //           href: "https://discord.gg/9ES7UszWTX",
+      //         },
+      //         {
+      //           label: "Twitter",
+      //           href: "https://twitter.com/pixelapes",
+      //         },
+      //         {
+      //           label: "Website",
+      //           href: "https://pixelapes.xyz",
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: "Community",
+      //       items: [
+      //         {
+      //           label: "Twitter",
+      //           href: "https://twitter.com/pixelapelabs",
+      //         },
+      //       ],
+      //     },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} Pixel Ape Labs.`,
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "dark",
       },
     }),
 };

@@ -31,4 +31,5 @@ Command Type: **User Command**
 
 ## Screenshots
 
-![Send Tip Modal](../assets/send-tip-modal.png)
+![Send Tip Modal](../../assets/send-tip-modal.png)
+![Tip Response](../../assets/tip-response.png)
