@@ -23,7 +23,7 @@ Command Type: **Slash Command**
 ### Slash Command
 
 ```
-/getwallet @ParticleNerd
+/getwallet @danielmilner
 ```
 
 ### Bot Response
