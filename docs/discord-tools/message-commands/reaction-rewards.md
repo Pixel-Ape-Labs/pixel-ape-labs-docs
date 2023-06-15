@@ -26,7 +26,7 @@ Command Type: **Message Command**
 
 ![Reward Reactions Modal](../../assets/reward-reactions-modal.png)
 
-2. A message is returned asking you to confirm and approve the reward amount, showing you the number of unique users, reward per user, reward todal, and your reward wallet balance.
+2. A message is returned asking you to confirm and approve the reward amount, showing you the number of unique users, reward per user, reward total, and your reward wallet balance.
 
 ![Reward Reactions Response Confirmation](../../assets/reward-reactions-response-confirmation.png)
 
