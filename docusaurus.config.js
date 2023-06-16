@@ -1,14 +1,10 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-// const themes = require('prism-react-renderer');
-// const lightCodeTheme = require("prism-react-renderer/themes/github");
-// const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Pixel Ape Labs",
-  tagline: "Tools for collections and collectors",
+  tagline: "Tools to help bridge Discord and Solana",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -43,6 +39,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
+          breadcrumbs: false,
         },
         blog: {
           showReadingTime: true,
@@ -60,10 +57,11 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Pixel Ape Labs",
+        title: "Docs",
         logo: {
           alt: "Pixel Ape Labs",
-          src: "img/logo.png",
+          src: "img/logo-light.png",
+          srcDark: "img/logo-dark.png",
         },
         items: [
           // {

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+sidebar_label: 🔗 Linked Roles
 ---
 
 # Linked Roles
@@ -19,6 +20,15 @@ According to Discord,
 ### Wallet Linked
 
 This role can be automatically assigned to any user who has linked at least one (1) wallet on Pixel Ape Labs.
+
+## How To Create A Linked Role
+
+1. Go to your server settings and create a new role.
+2. Navigate to the **Links** tab.
+3. Click on the **Add Requirement** button.
+4. Select **Pixel Ape Labs** from the Apps section.
+5. Turn on the **Wallet Linked** requirement.
+6. Save the role.
 
 ## How Are Linked Roles Assigned?
 

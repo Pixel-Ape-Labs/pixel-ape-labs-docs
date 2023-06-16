@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
-sidebar_label: Discord Tools
+sidebar_position: 3
+sidebar_label: Discord Bot
 ---
 
-# Discord Tools
+# Discord Bot
 
 ## DotTheBot is our friendly Discord bot
 
